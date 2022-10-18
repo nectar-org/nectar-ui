@@ -1,0 +1,34 @@
+[
+  {
+    "name": "Discussions",
+    "url": "https://github.com/nectar-org/nectar-ui/discussions"
+  },
+  {
+    "name": "Example projects",
+    "url": "https://github.com/nectar-org/nectar-ui/tree/master/examples"
+  },
+  {
+    "name": "Create issue",
+    "url": "https://github.com/nectar-org/nectar-ui/issues/new/choose"
+  },
+  {
+    "name": "Release Note",
+    "url": "https://github.com/nectar-org/nectar-ui/releases"
+  },
+  {
+    "name": "Join Slack",
+    "url": "https://github.com/nectar-org/nectar-ui/discussions/572"
+  },
+  {
+    "name": "License",
+    "url": "https://github.com/nectar-org/nectar-ui/blob/master/LICENSE"
+  },
+  {
+    "name": "Canary Documentation",
+    "url": "https://rc.nectar-ui.dev/"
+  },
+  {
+    "name": "Canary Releases",
+    "url": "https://github.com/nectar-org/nectar-ui/releases?q=canary&expanded=true"
+  }
+]

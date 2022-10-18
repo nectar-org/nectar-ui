@@ -1,0 +1,41 @@
+import Layout from 'lib/components/layout'
+import { Note } from 'components'
+
+export const meta = {
+  title: 'Introduction',
+  group: 'Getting Started',
+  index: 5,
+}
+
+## Introduction
+
+### About
+
+**Nectar UI** is an elegant and beautiful React component library with Geek style,
+originating from [Vercel](https://vercel.com?utm_source=nectar-ui&utm_campaign=oss) design system.
+
+With Nectar's unique advantages in text layout, optimization of light and dark lines, and scale components,
+you can easily create clean and powerful personal sites, or quickly build modern web applications based on highly customizable design system.
+
+Get start on Nectar with the [guide](/en-us/guide/installation),
+or view full [project examples](https://github.com/nectar-org/nectar-ui/tree/master/examples).
+
+<Note label="" type="warning">
+  <b>This is a COMMUNITY PROJECT, not associated with Vercel.</b>
+</Note>
+
+### Contact
+
+- [Report an issue](https://github.com/nectar-org/nectar-ui/issues/new)
+- [Chat on GitHub Discussions](https://github.com/nectar-org/nectar-ui/discussions)
+- Share your work on the [Slack](https://github.com/nectar-org/nectar-ui/discussions/572) channel
+- We welcome feedback and ideas. We also love PRs
+
+### Open Source
+
+- [Release Notes](https://github.com/nectar-org/nectar-ui/releases)
+- [Contribution Guide](https://github.com/nectar-org/nectar-ui/blob/master/.github/CONTRIBUTING.md)
+- [Code of Conduct](https://github.com/nectar-org/nectar-ui/blob/master/.github/CODE_OF_CONDUCT.md)
+- License: [MIT LICENSE](https://github.com/nectar-org/nectar-ui/blob/master/LICENSE)
+
+export default ({ children }) => <Layout meta={meta}>{children}</Layout>
