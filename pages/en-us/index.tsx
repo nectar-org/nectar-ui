@@ -15,7 +15,7 @@ const Application: NextPage<{}> = () => {
         <div className="hero">
           <h1 className="title">Nectar</h1>
           <h3 className="desc">
-            An open source design system for building modern websites and applications.
+            Geist UI + Stitches CSS variant props. 
           </h3>
         </div>
 

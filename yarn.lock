@@ -1143,14 +1143,14 @@
     minimatch "^3.0.4"
     strip-json-comments "^3.1.1"
 
-"@nectar-ui/icons@^1.0.1":
-  version "1.0.1"
-  resolved "https://registry.yarnpkg.com/@geist-ui/icons/-/icons-1.0.1.tgz#588b22960f584cbb75674ed56ea0789ac62dfbd6"
-  integrity sha512-W+ol1DOk9MNjY9IV0gKbhaKIjif6O+5wxM31CIUUAl6shjRjmwVPxVNFoaVJwiTp0Chp5BQyluHmCWaOOZQCtA==
+"@geist-ui/icons@^1.0.1":
+  version "1.0.2"
+  resolved "https://registry.yarnpkg.com/@geist-ui/icons/-/icons-1.0.2.tgz#00eba846fb21ce4f26601be5ef181f2374c00887"
+  integrity sha512-Npfa0NW6fQ31qw/+iMPWbs1hAcJ/3FqBjSLYgEfITDqy/3TJFpFKeVyK04AC/hTmYTsdNruVYczqPNcham5FOQ==
 
-"@nectar-ui/prettier-config@^1.0.1":
+"@geist-ui/prettier-config@^1.0.1":
   version "1.0.1"
-  resolved "https://registry.yarnpkg.com/@nectar-ui/prettier-config/-/prettier-config-1.0.1.tgz#13d4beb6d720adfebb5fa23f845108a0bdaf911e"
+  resolved "https://registry.yarnpkg.com/@geist-ui/prettier-config/-/prettier-config-1.0.1.tgz#13d4beb6d720adfebb5fa23f845108a0bdaf911e"
   integrity sha512-bEVMbg/colQOWUZZPWOlsI3JH1tobbxnDANKP4XhoAuAOJbXVkloiHkGAEYlzj/mJl0rOEWl4DI7nIx+//FVtg==
 
 "@humanwhocodes/config-array@^0.5.0":
